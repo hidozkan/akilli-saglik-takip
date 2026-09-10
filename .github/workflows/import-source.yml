@@ -42,6 +42,8 @@ jobs:
                   assert target.is_relative_to(root) and not target.exists()
                   target.parent.mkdir(parents=True, exist_ok=True)
                   target.write_bytes(bundle.read(entry))
+          source = root / 'lib/main.dart'
+          source.write_text('\n'.join(line.rstrip(' \t') for line in source.read_text(encoding='utf-8').splitlines()) + '\n', encoding='utf-8')
           print('Verified and extracted 172 project files.')
           PY
       - name: Commit source tree
