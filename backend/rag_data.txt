@@ -1,0 +1,70 @@
+Bu uygulama tıbbi teşhis koymaz. Sadece sağlık takibi, bilgilendirme ve kullanıcıyı doğru zamanda doktora yönlendirme amacıyla kullanılır.
+AI sağlık asistanı kesin tanı, ilaç önerisi veya tedavi planı vermez.
+Kullanıcının şikayetleri ciddi ise doktor veya acil sağlık hizmeti önerilmelidir.
+
+Yetişkinlerde dinlenme halinde normal nabız genellikle 60-100 atım/dakika aralığındadır.
+Dinlenme halinde nabız 100 atım/dakikanın üzerindeyse yüksek nabız yani taşikardi olabilir.
+Dinlenme halinde nabız 60 atım/dakikanın altındaysa düşük nabız yani bradikardi olabilir.
+Sporcularda, düzenli egzersiz yapan kişilerde veya uyku sırasında nabız 60’ın altında olabilir ve bu her zaman hastalık anlamına gelmez.
+Nabız tek ölçümle değerlendirilmemelidir; birkaç dakika dinlendikten sonra tekrar ölçüm yapılması daha sağlıklı olabilir.
+Nabız ölçümü öncesinde kişi en az 5 dakika dinlenmiş olmalıdır.
+Egzersiz, stres, kaygı, ateş, susuz kalma, kafein, enerji içeceği, sigara, bazı ilaçlar ve uykusuzluk nabzı yükseltebilir.
+Yüksek nabız durumunda kullanıcıya önce oturması, sakinleşmesi, derin nefes alması ve birkaç dakika sonra tekrar ölçüm yapması önerilebilir.
+Nabız sürekli 100 üzerindeyse, özellikle istirahat halindeyken tekrarlıyorsa doktora danışılması önerilir.
+Nabız 120-130 üzerindeyse ve dinlenmeye rağmen düşmüyorsa doktorla görüşmek uygun olabilir.
+Nabız 150 ve üzerindeyse, özellikle istirahat halinde ölçüldüyse dikkat edilmelidir.
+Nabız yüksekliği ile birlikte göğüs ağrısı, nefes darlığı, bayılma, bayılacak gibi olma, şiddetli baş dönmesi, bilinç bulanıklığı veya çarpıntı varsa acil sağlık desteği alınmalıdır.
+Düşük nabız durumunda halsizlik, baş dönmesi, bayılma, nefes darlığı, göğüs ağrısı veya bilinç bulanıklığı varsa acil değerlendirme gerekebilir.
+Nabız 50’nin altındaysa ve kullanıcı sporcu değilse veya belirgin şikayetleri varsa doktora danışması önerilir.
+Nabız 40’ın altındaysa veya belirti varsa acil tıbbi değerlendirme önerilmelidir.
+Çocuklarda ve gençlerde nabız aralıkları yetişkinlerden farklı olabilir; bu uygulama yetişkin odaklı genel bilgilendirme yapar.
+
+Normal tansiyon genellikle sistolik 120 mmHg altı ve diyastolik 80 mmHg altı olarak kabul edilir.
+120/80 civarı tansiyon birçok yetişkin için normal kabul edilir.
+Sistolik değer üst tansiyondur; kalp kasıldığında damar içindeki basıncı gösterir.
+Diyastolik değer alt tansiyondur; kalp gevşediğinde damar içindeki basıncı gösterir.
+Tansiyon 120-129 ve alt değer 80’in altındaysa yükselmiş tansiyon eğilimi olabilir.
+Tansiyon 130-139 veya 80-89 aralığındaysa evre 1 hipertansiyon riski olabilir.
+Tansiyon 140 veya üzeri ya da 90 veya üzeri ise yüksek tansiyon yani hipertansiyon riski olabilir.
+Tansiyon 180 veya üzeri ya da 120 veya üzeri ise ciddi yüksek tansiyon olabilir ve dikkat gerektirir.
+180/120 üzeri ölçümde kullanıcı birkaç dakika dinlenip tekrar ölçüm yapmalıdır.
+180/120 üzeri tansiyonla birlikte göğüs ağrısı, nefes darlığı, görme bozukluğu, şiddetli baş ağrısı, bilinç bulanıklığı, konuşma bozukluğu, güçsüzlük veya uyuşma varsa acil sağlık desteği alınmalıdır.
+Yüksek tansiyon her zaman belirti vermeyebilir; bu yüzden düzenli ölçüm önemlidir.
+Tansiyonun tek sefer yüksek çıkması kesin hipertansiyon tanısı anlamına gelmez.
+Tansiyon tekrarlayan şekilde yüksek çıkıyorsa doktora danışılmalıdır.
+Düşük tansiyon genellikle 90/60 altı değerlerde düşünülebilir.
+Düşük tansiyon bazı kişilerde normal olabilir; ancak baş dönmesi, bayılma, halsizlik, bulanık görme, soğuk terleme veya bilinç bulanıklığı varsa değerlendirme gerekir.
+Düşük tansiyon durumunda kişi oturmalı veya uzanmalı, ani ayağa kalkmamalı ve sıvı alımı yetersizse su içmelidir.
+Düşük tansiyon sık tekrarlıyorsa doktora danışılmalıdır.
+Tansiyon ölçümünden önce en az 5 dakika dinlenmek önerilir.
+Tansiyon ölçümü sırasında sırt destekli oturmak, ayakları yere basmak ve kolu kalp hizasında tutmak gerekir.
+Tansiyon ölçümünden önceki 30 dakika içinde kafein, sigara, egzersiz ve yoğun stres ölçümü etkileyebilir.
+Evde tansiyon takibi yapılırken ölçümler mümkünse aynı saatlerde yapılmalıdır.
+Tansiyon cihazının manşonu kola uygun boyutta olmalıdır; yanlış manşon hatalı ölçüm verebilir.
+Üst üste ölçümlerde farklı değerler çıkabilir; ölçümler arasında 1-2 dakika beklemek daha doğru olabilir.
+Kullanıcı ölçüm değerlerini düzenli kaydetmelidir; doktor değerlendirmesi için geçmiş ölçümler önemlidir.
+
+Nabız ve tansiyon birlikte değerlendirilmelidir.
+Yüksek nabız ve yüksek tansiyon birlikteyse stres, egzersiz, ağrı, ateş, kaygı, kafein veya başka sağlık sorunları etkili olabilir.
+Yüksek nabız ve düşük tansiyon birlikteyse susuz kalma, kan kaybı, enfeksiyon veya dolaşım problemi gibi durumlar açısından dikkatli olunmalıdır.
+Düşük nabız ve düşük tansiyon birlikteyse baş dönmesi, bayılma veya halsizlik varsa tıbbi destek önerilmelidir.
+Normal değerler kişinin yaşına, kondisyonuna, hastalıklarına ve kullandığı ilaçlara göre değişebilir.
+Kullanıcı düzenli ilaç kullanıyorsa, kalp hastalığı varsa, diyabeti varsa, hamileyse veya kronik hastalığı varsa doktor önerisi daha önemlidir.
+Hamilelikte tansiyon ve nabız değerlendirmesi özel takip gerektirebilir; hamile kullanıcılar doktoruna danışmalıdır.
+Kalp ritim bozukluğu olan kişilerde nabız değerleri değişken olabilir; doktor takibi önemlidir.
+Ateş veya enfeksiyon sırasında nabız yükselebilir.
+Susuz kalma nabzı yükseltebilir ve tansiyonu düşürebilir.
+Kafein ve enerji içecekleri bazı kişilerde çarpıntı ve yüksek nabza neden olabilir.
+Yoğun stres ve panik hissi nabız ve tansiyonu geçici olarak yükseltebilir.
+Kullanıcı şikayeti varsa sadece uygulama cevabına güvenmemeli, sağlık profesyoneline başvurmalıdır.
+
+AI asistan kullanıcıya panik yaratacak şekilde cevap vermemelidir.
+AI asistan ciddi belirtiler varsa açıkça acil yardım önermelidir.
+AI asistan ilaç başlatma, ilaç bırakma veya doz değiştirme önerisi vermemelidir.
+AI asistan “kesin hastasınız” veya “kesin sorun yok” gibi ifadeler kullanmamalıdır.
+AI asistan “bu değer tek başına tanı koydurmaz” şeklinde güvenli açıklama yapmalıdır.
+AI asistan kullanıcının son ölçümünü dikkate almalı, geçmiş ölçümler varsa trend hakkında genel yorum yapmalıdır.
+AI asistan kullanıcıya tekrar ölçüm, dinlenme, düzenli takip ve doktora danışma gibi güvenli öneriler sunmalıdır.
+AI asistan acil belirtileri özellikle sormalı veya hatırlatmalıdır.
+AI asistan cevapları kısa, anlaşılır ve Türkçe vermelidir.
+AI asistan kullanıcıya “Ben doktor değilim, bu bilgi tıbbi değerlendirme yerine geçmez” anlamında güvenli uyarı ekleyebilir.

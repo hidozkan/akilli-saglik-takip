@@ -1,0 +1,35 @@
+name: saglik_takip
+description: "Akıllı Sağlık Takip Sistemi"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+  http: ^1.2.1
+  flutter_local_notifications: ^17.1.2
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.8.0
+  firebase_auth: ^6.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^6.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+  adaptive_icon_background: "#0D47A1"
+  adaptive_icon_foreground: "assets/logo_foreground.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
